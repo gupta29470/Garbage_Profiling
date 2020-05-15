@@ -6,17 +6,17 @@
 
 ### Following are steps I'm going to discuss how to run this project on your local machine.
 
-If you find any difficulty or error you can reach me by email --> gupta29470@gmail.com
+
 
 #### To install YOLOv3 on your local machine follow this [repo](https://github.com/AlexeyAB/darknet) or use this youtube [video](https://www.youtube.com/watch?v=DjO9UtSON6U&t=1189s)
 
 #### After installing darknet/yolov3 install packages:
 
-#####For opencv ---> pip install opencv-python
+1. For opencv ---> pip install opencv-python
 
-##### For numpy ---> pip install numpy
+2. For numpy ---> pip install numpy
 
-##### For argparse ---> pip install argparse
+3. For argparse ---> pip install argparse
 
 #### You have to place the file in respective directory:
 
@@ -32,13 +32,15 @@ If you find any difficulty or error you can reach me by email --> gupta29470@gma
 
 #### After installing packages and place file in respective directory run garbage_profiling.py file
 
-##### If it throws error you can Google or reach me.
+- If it throws error you can Google or reach me.
 
-#### Important Note: This project can run without garbage_profiling.py by following commands:
+- Important Note: This project can run without garbage_profiling.py by following commands:
 
-#### To run using input image: darknet detector test cfg/obj.data cfg/yolo-garbage1.cfg yolo-garbage1_last.weights data/plastic_1.jpg
+1. To run using input image: darknet detector test cfg/obj.data cfg/yolo-garbage1.cfg yolo-garbage1_last.weights data/plastic_1.jpg
 
-#### To run using webcam.real-time: darknet.exe detector demo cfg/obj.data cfg/yolo-garbage1.cfg yolo-garbage1_last.weights
+2. To run using webcam.real-time: darknet.exe detector demo cfg/obj.data cfg/yolo-garbage1.cfg yolo-garbage1_last.weights
+
+##### If you find any difficulty or error you can reach me by email --> gupta29470@gmail.com
 
 ##### Thankyou, 
 *Valar Dohaeris!*

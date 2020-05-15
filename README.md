@@ -24,7 +24,7 @@
 
 2. move obj.names to data folder of darknet (example ---> C:\darknet\darknet-master\build\darknet\x64\data)
 
-3. Download weights file from this [link](https://drive.google.com/file/d/1gNe0xfa1apavLAZL85ovudfg8yhYT291/view?usp=sharing)
+3. Download weights file from this [link](https://drive.google.com/file/d/1ngpL0ZAPcJ4WkTEgfUuUDbRzn-Whq8JQ/view?usp=sharing)
 
 4. move weights file to x64 of darknet (example ---> C:\darknet\darknet-master\build\darknet\x64)
 

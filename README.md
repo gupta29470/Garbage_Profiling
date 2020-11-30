@@ -30,6 +30,32 @@
 ## Output (6)
 ![Demo](./results/output6.png)
 
+## Output (7)
+![Demo](./results/organic.png)
+
+## Output (8)
+![Demo](./results/output_plastic_1.png)
+
+## Output (9)
+![Demo](./results/output_plastic_2.png)
+
+## Output (10)
+![Demo](./results/output_metal_1.png)
+
+## Output (11)
+![Demo](./results/output_metal_2.png)
+
+## Output (12)
+![Demo](./results/output_metal_3.png)
+
+## Output (13)
+![Demo](./results/output6.png)
+
+## Output (14)
+![Demo](./results/output6.png)
+
+
+
 **>If you find any difficulty or error you can reach me by email : gupta29470@gmail.com**
 
 **>Thankyou,**

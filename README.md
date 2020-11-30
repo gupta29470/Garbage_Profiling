@@ -50,9 +50,9 @@
 
 </br>
 </br>
+</br>
 
+**If you find any difficulty or error you can reach me by email : gupta29470@gmail.com**
 
-**>If you find any difficulty or error you can reach me by email : gupta29470@gmail.com**
+**Thank you!**
 
-**>Thankyou,**
-*Valar Dohaeris!*

@@ -31,28 +31,24 @@
 ![Demo](./results/output6.png)
 
 ## Output (7)
-![Demo](./results/organic.png)
+![Demo](./results/organic.PNG)
 
 ## Output (8)
-![Demo](./results/output_plastic_1.png)
+![Demo](./results/output_plastic_1.PNG)
 
 ## Output (9)
-![Demo](./results/output_plastic_2.png)
+![Demo](./results/output_plastic_2.PNG)
 
 ## Output (10)
-![Demo](./results/output_metal_1.png)
+![Demo](./results/output_metal_1.PNG)
 
 ## Output (11)
-![Demo](./results/output_metal_2.png)
+![Demo](./results/output_metal_2.PNG)
 
 ## Output (12)
 ![Demo](./results/output_metal_3.png)
 
-## Output (13)
-![Demo](./results/output6.png)
 
-## Output (14)
-![Demo](./results/output6.png)
 
 
 

@@ -11,6 +11,25 @@
 ## Output (1)
 ![Demo](./results/output1.png)
 
+
+## Output (2)
+![Demo](./results/output2.png)
+
+
+## Output (3)
+![Demo](./results/output3.png)
+
+
+## Output (4)
+![Demo](./results/output4.png)
+
+
+## Output (5)
+![Demo](./results/output5.png)
+
+## Output (6)
+![Demo](./results/output6.png)
+
 **>If you find any difficulty or error you can reach me by email : gupta29470@gmail.com**
 
 **>Thankyou,**

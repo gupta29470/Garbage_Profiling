@@ -12,9 +12,9 @@
 
 
 
->To install YOLOv3 on your local machine follow this [repo](https://github.com/AlexeyAB/darknet) or use this youtube [video](https://www.youtube.com/watch?v=DjO9UtSON6U&t=1189s)
+**>To install YOLOv3 on your local machine follow this [repo](https://github.com/AlexeyAB/darknet) or use this youtube [video](https://www.youtube.com/watch?v=DjO9UtSON6U&t=1189s)
 
->After installing darknet/yolov3 install packages:
+**>After installing darknet/yolov3 install packages:
 
 1. For opencv ---> pip install opencv-python
 
@@ -22,7 +22,7 @@
 
 3. For argparse ---> pip install argparse
 
->You have to place the file in respective directory:
+**>You have to place the file in respective directory:
 
 1. move obj.data file to cfg folder of darknet (example ---> C:\darknet\darknet-master\build\darknet\x64\cfg)
 
@@ -34,7 +34,7 @@
 
 5. move yolo-garbage1.cfg to cfg folder of darknet (example ---> C:\darknet\darknet-master\build\darknet\x64\cfg)
 
->After installing packages and place file in respective directory run garbage_profiling.py file
+**>After installing packages and place file in respective directory run garbage_profiling.py file
 
 - If it throws error you can Google or reach me.
 
@@ -44,7 +44,7 @@
 
 2. To run using webcam.real-time: darknet.exe detector demo cfg/obj.data cfg/yolo-garbage1.cfg yolo-garbage1_last.weights
 
->If you find any difficulty or error you can reach me by email : gupta29470@gmail.com
+**>If you find any difficulty or error you can reach me by email : gupta29470@gmail.com
 
->Thankyou, 
+**>Thankyou, 
 *Valar Dohaeris!*

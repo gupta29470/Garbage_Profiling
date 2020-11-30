@@ -12,7 +12,7 @@
 
 
 
-**>To install YOLOv3 on your local machine follow this [repo](https://github.com/AlexeyAB/darknet) or use this youtube [video](https://www.youtube.com/watch?v=DjO9UtSON6U&t=1189s)
+**>To install YOLOv3 on your local machine follow this [repo](https://github.com/AlexeyAB/darknet) or use this youtube [video](https://www.youtube.com/watch?v=DjO9UtSON6U&t=1189s)**
 
 **>After installing darknet/yolov3 install packages:
 

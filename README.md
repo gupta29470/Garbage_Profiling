@@ -9,7 +9,7 @@
 ### [Dataset](https://www.kaggle.com/techsash/waste-classification-data)
 
 ## Output (1)
-![Demo](.results/output1.png)
+![Demo](./results/output1.png)
 
 **>If you find any difficulty or error you can reach me by email : gupta29470@gmail.com**
 

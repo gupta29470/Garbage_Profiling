@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="90" height="90" src="https://images.unsplash.com/photo-1605600659908-0ef719419d41?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FyYmFnZSUyMGNhbnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60">
+    <img width="200" height="200" src="https://images.unsplash.com/photo-1605600659908-0ef719419d41?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FyYmFnZSUyMGNhbnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60">
 </p>
 
 # Garbage Profiling

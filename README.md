@@ -46,7 +46,7 @@
 ![Demo](./results/output_metal_2.PNG)
 
 ## Output (12)
-![Demo](./results/output_metal_3.png)
+![Demo](./results/output_metal_3.PNG)
 
 
 

@@ -8,8 +8,8 @@
 </p>
 </br>
 </br>
-> About Garbage_profiling: I had recommended 6 classes namely plastic, paper, cardboard, metal, other nonbiodegradable, and biodegradable.
->This model has the ability to detect garbage by input image or in real-time
+About Garbage_profiling: I had recommended 6 classes namely plastic, paper, cardboard, metal, other nonbiodegradable, and biodegradable.
+This model has the ability to detect garbage by input image or in real-time
 
 ### [Dataset](https://www.kaggle.com/techsash/waste-classification-data)
 
